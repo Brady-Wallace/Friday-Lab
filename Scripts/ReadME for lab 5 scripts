@@ -1,0 +1,5 @@
+#ConstraintTypeScript: Changes the interp type for every parent constraint in the scene from average to shortest interp
+
+#CreateConstraintsScript: Makes new parent constraints that include the ability to be turned on and off on the child object
+
+#RenamerScript: Iterates through selected objects and renames them based on the prompt given
