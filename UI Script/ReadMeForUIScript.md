@@ -1,0 +1,1 @@
+Works the same as the sequential renamer script from the last lab, just make sure to use # in the rename text field in order to achieve the desired result.
